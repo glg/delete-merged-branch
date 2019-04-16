@@ -1,3 +1,7 @@
+# FOR GLG
+
+This is a fork of a GitHub action (and GitHub app) that does nothing more than delete merged branches from PR's.  This repo is likely referenced by repos that point to it with GitHub actions.
+
 # Delete merged branch
 [![Build Status](https://travis-ci.com/SvanBoxel/delete-merged-branch.svg?token=BrByTtLgfVKqDJ6GzD2p&branch=master)](https://travis-ci.com/SvanBoxel/delete-merged-branch)
 _Want to see more badges? [Click here](#badges)!_
